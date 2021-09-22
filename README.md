@@ -1,6 +1,6 @@
 Hello,
 
-Thank you for downloading this livery! This file contains the World Airways (White) livery for the Overland MD-11 for X-Plane. 
+Thank you for downloading this livery! This file contains the World Airways (White) livery for the X-Plane Overland MD-11. 
 
 
 Here are some screenshots of the livery: 
