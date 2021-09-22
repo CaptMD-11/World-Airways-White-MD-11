@@ -14,4 +14,4 @@ Here are some screenshots of the livery:
 
 
 
-Please delete this README.md file when you have completed the livery installation. 
+Please delete this README.md file after you have completed the livery installation. 
